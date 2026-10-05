@@ -1,0 +1,29 @@
+{
+  "nom": "Steeven",
+  "nomComplet": "RANDRIANARIJAONA MAMY mahefa Steeven",
+  "surnom": "Surnom de Steeven",
+  "age": "21",
+  "classe": "Classe A",
+  "disciplines": ["Kick-boxing", "K1"],
+  "categorie": "poids coqs",
+  "poids": "54 kg",
+  "taille": "174 cm",
+  "ville": "Antananarivo / Madagascar",
+  "club": "etoile du sud",
+  "photoPrincipale": "image de steeven",
+  "bio": "",
+  "citation": "Citation ou devise de Steeven",
+  "contact": {
+    "email": "2007rickardo2@gmail.com",
+    "telephone": "+261 38 49 631 45",
+    "facebook": "https://www.facebook.com/share/14qUb2eXsXP/?mibextid=wwXIfr",
+    "instagram": "https://www.instagram.com/coachingsteeve?stkn=a3U1dGcyN3I5c3dn&utm_source=qr",
+    "tiktok": "https://www.tiktok.com/@steeve.coaching?_r=1&_t=ZS-9AJ0fD0c12Y"
+  },
+  "galerie": [
+    { "legende": "Photo 1 (à compléter)", "image": "image de steeven en combat" },
+    { "legende": "Photo 2 (à compléter)", "image": "image de steeven à l'entraînement" },
+    { "legende": "Photo 3 (à compléter)", "image": "image de steeven avec sa ceinture" },
+    { "legende": "Photo 4 (à compléter)", "image": "image de steeven sur le ring" }
+  ]
+}

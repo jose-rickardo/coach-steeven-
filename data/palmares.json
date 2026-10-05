@@ -1,0 +1,88 @@
+{
+  "combats": [
+    {
+      "id": 1,
+      "date": "26 septembre 2026",
+      "adversaire": "noh",
+      "evenement": "l'eveil du legende",
+      "lieu": "Atsirabe",
+      "discipline": "K1",
+      "resultat": "Défaite",
+      "methode": "Victoire par points",
+      "round": "3 rounds",
+      "titre": null,
+      "poids": "54 kg",
+      "photo": "/images/photo-1.jpeg"
+    },
+    {
+      "id": 2,
+      "date": "06 septembre 2026",
+      "adversaire": "jhonatan",
+      "evenement": "choc du cobra 2",
+      "lieu": "Antananarivo",
+      "discipline": "K1",
+      "resultat": "Victoire",
+      "methode": "Victoire par points",
+      "round": "3 rounds",
+      "titre": "Ceinture/champions choc du cobra",
+      "poids": "54 kg",
+      "photo": "/images/photo-2.jpeg"
+    },
+    {
+      "id": 3,
+      "date": "6 septembre 2026",
+      "adversaire": "Tantely",
+      "evenement": "choc du cobra 2(demi finale)",
+      "lieu": "Antananarivo",
+      "discipline": "K1",
+      "resultat": "Victoire",
+      "methode": "Victoire par points",
+      "round": null,
+      "titre": null,
+      "poids": "54 kg",
+      "photo": "/images/photo-3.jpeg"
+    },
+    {
+      "id": 4,
+      "date": "29 août 2026",
+      "adversaire": "haritana",
+      "evenement": "Ala-vela",
+      "lieu": "Antananarivo",
+      "discipline": "Kick-boxing",
+      "resultat": "Victoire",
+      "methode": "Victoire par points",
+      "round": "3 rounds",
+      "titre": null,
+      "poids": "54 kg",
+      "photo": "/images/photo-9.jpeg"
+    },
+    {
+      "id": 5,
+      "date": "19 janvier 2026",
+      "adversaire": "stone",
+      "evenement": "gala des champions",
+      "lieu": "Atsirabe",
+      "discipline": "Kick-boxing",
+      "resultat": "Victoire",
+      "methode": "Victoire par points",
+      "round": "3 rounds",
+      "titre": null,
+      "poids": "54 kg",
+      "photo": "/images/photo-8.jpeg"
+    },
+    {
+      "id": 6,
+      "date": "neon",
+      "adversaire": "bolt",
+      "evenement": "figth night",
+      "lieu": "Antananarivo",
+      "discipline": "Kick-boxing",
+      "resultat": "Victoire",
+      "methode": "Victoire par points",
+      "round": "3 rounds",
+      "titre": null,
+      "poids": "54 kg",
+      "photo": "/images/photo-4.jpeg"
+    }
+  ]
+}
