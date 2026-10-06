@@ -5,7 +5,7 @@ import { profile } from "@/lib/stats";
 
 export const metadata = {
   title: {
-    default: `${profile.nom} · ${profile.classe}`,
+    default: `${profile.nom}`,
     template: `%s · ${profile.nom}`,
   },
   description: `${profile.nom} — combattant ${profile.classe} en ${profile.disciplines.join(" et ")}.`,
